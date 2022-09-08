@@ -1,2 +1,3 @@
 # HomeElecticityDataVisualization
 A full stack app with React/hooks, Nodejs, express, Postgresql and Chartjs...
+In this app according to electricity consumption data from database for each house, the data has been visualized by using Chart.js.
